@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	padding: 5px;
+
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+
+.scene-changer {
+	display: flex;
+	justify-content: center;
+
+	margin: 20px 0;
+}
+
+.scene-changer p {
+	margin: 0 10px;
+}
